@@ -7,10 +7,8 @@ I'm always learning and always improving !. ↖️
 [![](https://img.shields.io/badge/-@codeforces-%23181717?style=flat-square&logo=Codeforces&logoColor=ffffff)](https://codeforces.com/profile/Seoudii)
  
 # 🅷🅾🆆 🆃🅾 🆁🅴🅰🅲🅷 🅼🅴 ?
-[![Gmail Badge](https://img.shields.io/badge/-tayman076@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-tarekseoudii@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-TarekAyman-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-ayman-a9028b20b/)
 [![Facebook Badge](https://img.shields.io/badge/-TarekAyman-0072b1?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/tarek.ayman.14661/)
 
-![](https://komarev.com/ghpvc/?username=TarekAyman&style=flat-square&label=Views)
-![](https://badges.pufler.dev/visits/TarekAyman/char-al?color=black&logo=github&style=flat-square)
 
