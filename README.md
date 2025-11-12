@@ -8,7 +8,7 @@ I'm always learning and always improving !. ↖️
  
 # 🅷🅾🆆 🆃🅾 🆁🅴🅰🅲🅷 🅼🅴 ?
 [![Gmail Badge](https://img.shields.io/badge/-tarekseoudii@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samujjwaal.dey@acuitybrands.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-TarekAyman-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-ayman-a9028b20b/)
+[![Linkedin Badge](https://img.shields.io/badge/-TarekAyman-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-ayman-934343283/)
 [![Facebook Badge](https://img.shields.io/badge/-TarekAyman-0072b1?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61575496171949)
 
 
